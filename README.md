@@ -1,1 +1,1 @@
-# DigitRecognizerMnist
+# Digit Recognizer using Mnist Data
